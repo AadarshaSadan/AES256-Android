@@ -9,3 +9,6 @@ Plain text is translated into Cipher before being produced into Cipher text bits
 
 
 We use two seperate classs for encryption and decryption in the code.
+
+![images](https://user-images.githubusercontent.com/35558616/121990643-d0c4bf00-cdbd-11eb-8f73-753b76a9729f.png)
+
